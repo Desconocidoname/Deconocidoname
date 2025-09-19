@@ -1,6 +1,5 @@
-# 👋 Hola
+# 👋 Hola, bienvenido a mi perfil
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=900&color=F75C7E&center=true&vCenter=true&width=600&lines=Hola;Bienvenido+a+mi+perfil" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=900&color=F75C7E&center=true&vCenter=true&width=600&lines=Hola;Apasionado+por+la+programación;Bienvenido+a+mi+perfil" alt="Typing SVG" />
 </p>
-
