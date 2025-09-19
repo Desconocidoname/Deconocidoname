@@ -8,5 +8,11 @@
 </p>
 
 ---
+## 🐍 Snake de contribuciones
+
+<p align="center">
+  <img src="assets/futbol.gif" alt="Futbol animation" />
+</p>
+
 
 ✨ Gracias por visitar mi perfil ✨
